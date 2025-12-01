@@ -43,17 +43,5 @@ La ventana principal (`CustomerForm`) permite:
 
 La tabla se alimenta directamente desde la BD, garantizando que cada operación se refleja inmediatamente.
 
-## Backup de la base de datos (20 pts)
-
-La evidencia de respaldo solicitada es el propio archivo `actividad-1-create-table.sql`. No se requiere generar dumps adicionales: basta con adjuntar este script en la entrega.
-
-## Video explicativo
-
-Guía sugerida para el video:
-1. Mostrar el script SQL utilizado para crear la BD.
-2. Ejecutar el formulario y demostrar las operaciones CRUD.
-3. Enseñar brevemente el código de `CustomerDao` y `CustomerForm`.
-4. Cerrar mostrando el archivo de backup generado.
-
 Con esto se cubren los requisitos funcionales y de documentación solicitados para la actividad. ¡Éxitos en la presentación!
 
