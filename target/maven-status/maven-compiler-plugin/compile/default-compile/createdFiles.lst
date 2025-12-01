@@ -1,0 +1,8 @@
+com/saborpaisa/crud/config/DatabaseConfig.class
+com/saborpaisa/crud/ui/CustomerForm.class
+com/saborpaisa/crud/ui/CustomerForm$2.class
+com/saborpaisa/crud/dao/CustomerDao.class
+com/saborpaisa/crud/service/CustomerService.class
+com/saborpaisa/crud/model/Customer.class
+com/saborpaisa/crud/ui/CustomerForm$1.class
+com/saborpaisa/crud/App.class
